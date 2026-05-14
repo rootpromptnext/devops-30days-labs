@@ -1,9 +1,4 @@
 
----
-
-## 📘 Lab 2 — Alerts & Notifications
-
-```markdown
 # Lab 2: Alerts & Notifications
 
 ## Objective
