@@ -1,9 +1,4 @@
 
----
-
-## 📘 Lab 2 — Playbook Basics
-
-```markdown
 # Lab 2: Playbook Basics
 
 ## Objective
@@ -27,3 +22,4 @@ Write and run your first Ansible playbook.
       apt:
         name: nginx
         state: present
+```
