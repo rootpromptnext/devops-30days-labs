@@ -12,12 +12,12 @@ Create and apply Vault policies.
 3. Assign to token.
 
 ## Commands
-
+```
 cat > readonly.hcl <<EOF
 path "secret/*" {
   capabilities = ["read"]
 }
 EOF
-
+```
 vault policy write readonly readonly.hcl
 vault token create -policy=readonly
