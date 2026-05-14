@@ -1,9 +1,4 @@
 
----
-
-## 📘 Lab 10 — Model Serving in K3s
-
-```markdown
 # Lab 10: Model Serving in K3s
 
 ## Objective
