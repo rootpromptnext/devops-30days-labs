@@ -1,9 +1,4 @@
 
----
-
-## 📘 Lab 5 — Wiki & Documentation
-
-```markdown
 # Lab 5: Wiki & Documentation
 
 ## Objective
