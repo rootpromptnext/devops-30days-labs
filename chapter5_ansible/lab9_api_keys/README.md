@@ -1,9 +1,4 @@
 
----
-
-## 📘 Lab 9 — API Keys Management
-
-```markdown
 # Lab 9: API Keys Management
 
 ## Objective
