@@ -1,9 +1,5 @@
 
----
 
-## 📘 Lab 4 — Issue Tracking
-
-```markdown
 # Lab 4: Issue Tracking in Gitea
 
 ## Objective
@@ -20,3 +16,4 @@ Use Gitea issues to manage backlog.
 ## Commands
 ```bash
 git commit -m "Fix bug in login (#1)"
+```
