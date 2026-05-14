@@ -1,9 +1,4 @@
 
----
-
-## 📘 Lab 10 — AI Tokens Management
-
-```markdown
 # Lab 10: AI Tokens Management
 
 ## Objective
@@ -26,3 +21,4 @@ Manage ML/AI tokens securely with Ansible.
       copy:
         content: "{{ lookup('ansible.builtin.vault', 'ml_token') }}"
         dest: /etc/ml/token.txt
+```
