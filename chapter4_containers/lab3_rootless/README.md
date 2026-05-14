@@ -1,9 +1,3 @@
-
----
-
-## 📘 Lab 3 — Rootless Containers
-
-```markdown
 # Lab 3: Rootless Containers
 
 ## Objective
@@ -21,3 +15,4 @@ Run Podman containers without root privileges.
 ## Commands
 ```bash
 podman run --userns=keep-id alpine whoami
+```
