@@ -1,9 +1,3 @@
-
----
-
-## 📘 Lab 4 — Idempotency
-
-```markdown
 # Lab 4: Idempotency
 
 ## Objective
