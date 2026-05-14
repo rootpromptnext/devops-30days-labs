@@ -1,9 +1,3 @@
-
----
-
-## 📘 Lab 5 — Cloud Provisioning
-
-```markdown
 # Lab 5: Cloud Provisioning
 
 ## Objective
