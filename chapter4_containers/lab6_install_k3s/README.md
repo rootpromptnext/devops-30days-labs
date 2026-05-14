@@ -1,9 +1,3 @@
-
----
-
-## 📘 Lab 6 — Install K3s
-
-```markdown
 # Lab 6: Install K3s
 
 ## Objective
@@ -21,3 +15,4 @@ Set up a lightweight Kubernetes cluster.
 ```bash
 curl -sfL https://get.k3s.io | sh -
 sudo kubectl get nodes
+```
