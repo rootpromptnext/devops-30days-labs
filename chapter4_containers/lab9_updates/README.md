@@ -1,9 +1,3 @@
-
----
-
-## 📘 Lab 9 — Rolling Updates
-
-```markdown
 # Lab 9: Rolling Updates
 
 ## Objective
@@ -21,3 +15,4 @@ Perform rolling updates in K3s.
 ```bash
 kubectl set image deployment/myapp myapp=myapp:2.0
 kubectl rollout status deployment/myapp
+```
