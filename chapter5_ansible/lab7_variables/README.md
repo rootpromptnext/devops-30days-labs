@@ -1,9 +1,3 @@
-
----
-
-## 📘 Lab 7 — Variables & Templates
-
-```markdown
 # Lab 7: Variables & Templates
 
 ## Objective
