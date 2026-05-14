@@ -1,5 +1,3 @@
-```bash
-cat >> chapter8_capstone/lab5_ansible/README.md << 'EOF'
 # Lab 5: Ansible Automation
 
 ## Objective
