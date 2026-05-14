@@ -1,9 +1,3 @@
-
----
-
-## 📘 Lab 7 — Promtail Setup
-
-```markdown
 # Lab 7: Promtail Setup
 
 ## Objective
