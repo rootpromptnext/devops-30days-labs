@@ -1,10 +1,3 @@
-
----
-
-## 📘 Lab 4 — CI Integration
-
-```bash
-cat >> chapter7_vault/lab4_ci_integration/README.md << 'EOF'
 # Lab 4: Vault CI Integration
 
 ## Objective
@@ -26,3 +19,4 @@ Integrate Vault secrets into CI/CD pipeline.
   commands:
     - export SECRET=$(vault kv get -field=value secret/api)
     - echo $SECRET
+```
