@@ -1,9 +1,4 @@
 
----
-
-## 📘 Lab 2 — Repo Setup
-
-```markdown
 # Lab 2: Repo Setup in Gitea
 
 ## Objective
@@ -26,3 +21,4 @@ echo "# E-Commerce App" > README.md
 git add .
 git commit -m "Initial commit"
 git push origin main
+```
