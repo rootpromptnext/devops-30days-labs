@@ -1,9 +1,4 @@
 
----
-
-## 📘 Lab 8 — Scaling Pods
-
-```markdown
 # Lab 8: Scaling Pods
 
 ## Objective
@@ -20,3 +15,4 @@ Scale application replicas in K3s.
 ```bash
 kubectl scale deployment myapp --replicas=3
 kubectl get pods
+```
