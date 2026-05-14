@@ -1,9 +1,3 @@
-
----
-
-## 📘 Lab 2 — Shared Backlog (Automation)
-
-```markdown
 # Lab 2: Shared Backlog Automation
 
 ## Objective
@@ -27,3 +21,4 @@ pipeline:
     image: alpine/git
     commands:
       - git log --oneline | grep ISSUE-
+```
