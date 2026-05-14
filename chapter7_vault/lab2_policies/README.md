@@ -1,10 +1,3 @@
-
----
-
-## 📘 Lab 2 — Policies
-
-```bash
-cat >> chapter7_vault/lab2_policies/README.md << 'EOF'
 # Lab 2: Vault Policies
 
 ## Objective
@@ -19,7 +12,7 @@ Create and apply Vault policies.
 3. Assign to token.
 
 ## Commands
-```bash
+
 cat > readonly.hcl <<EOF
 path "secret/*" {
   capabilities = ["read"]
