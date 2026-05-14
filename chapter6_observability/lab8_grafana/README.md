@@ -1,9 +1,3 @@
-
----
-
-## 📘 Lab 8 — Grafana Integration
-
-```markdown
 # Lab 8: Grafana Integration
 
 ## Objective
