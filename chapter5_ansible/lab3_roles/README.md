@@ -1,9 +1,4 @@
 
----
-
-## 📘 Lab 3 — Roles & Reuse
-
-```markdown
 # Lab 3: Roles & Reuse
 
 ## Objective
