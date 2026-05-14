@@ -1,9 +1,4 @@
 
----
-
-## 📘 Lab 3 — Cross‑Sprint Collaboration (Measurement)
-
-```markdown
 # Lab 3: Cross-Sprint Collaboration
 
 ## Objective
@@ -20,3 +15,4 @@ Measure collaboration across sprints using commit activity.
 ## Commands
 ```bash
 git shortlog -s -n > sprint1_commits.txt
+```
