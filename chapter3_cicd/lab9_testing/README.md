@@ -1,9 +1,3 @@
-
----
-
-## 📘 Lab 9 — Testing Pipeline
-
-```markdown
 # Lab 9: Testing Pipeline
 
 ## Objective
@@ -23,3 +17,4 @@ Run automated tests in Drone CI.
   commands:
     - npm install
     - npm test
+```
