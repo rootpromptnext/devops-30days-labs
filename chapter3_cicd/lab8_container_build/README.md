@@ -1,9 +1,3 @@
-
----
-
-## 📘 Lab 8 — Container Build
-
-```markdown
 # Lab 8: Container Build with Drone CI
 
 ## Objective
@@ -24,3 +18,4 @@ Build container images automatically in CI.
   settings:
     repo: localhost:5000/ecommerce-app
     tags: latest
+```
