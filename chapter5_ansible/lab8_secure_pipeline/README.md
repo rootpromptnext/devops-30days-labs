@@ -1,9 +1,4 @@
 
----
-
-## 📘 Lab 8 — Secure Pipeline
-
-```markdown
 # Lab 8: Secure Pipeline
 
 ## Objective
