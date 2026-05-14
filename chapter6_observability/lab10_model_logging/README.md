@@ -1,9 +1,3 @@
-
----
-
-## 📘 Lab 10 — Model Logging
-
-```markdown
 # Lab 10: Model Logging
 
 ## Objective
