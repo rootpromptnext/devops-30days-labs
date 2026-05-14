@@ -1,9 +1,4 @@
 
----
-
-## 📘 Lab 2 — Build Image
-
-```markdown
 # Lab 2: Build Custom Image
 
 ## Objective
@@ -22,3 +17,4 @@ Build a custom container image using Podman.
 ```bash
 podman build -t myapp:1.0 .
 podman run -p 8080:8080 myapp:1.0
+```
