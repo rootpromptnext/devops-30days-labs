@@ -1,9 +1,4 @@
 
----
-
-## 📘 Lab 5 — Case Study Reflection
-
-```markdown
 # Lab 5: Case Study Reflection (CAMS in Action)
 
 ## Objective
