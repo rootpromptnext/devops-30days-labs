@@ -1,9 +1,4 @@
 
----
-
-## 📘 Lab 7 — Pipeline YAML
-
-```markdown
 # Lab 7: Drone CI Pipeline YAML
 
 ## Objective
@@ -34,3 +29,4 @@ steps:
   image: golang
   commands:
     - go test ./...
+```
