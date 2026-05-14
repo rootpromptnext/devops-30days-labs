@@ -1,9 +1,4 @@
 
----
-
-## 📘 Lab 7 — Deploy App on K3s
-
-```markdown
 # Lab 7: Deploy App on K3s
 
 ## Objective
@@ -22,3 +17,4 @@ Deploy a sample app on K3s.
 ```bash
 kubectl apply -f deployment.yaml
 kubectl get pods
+```
