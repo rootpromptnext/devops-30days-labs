@@ -1,9 +1,3 @@
-
----
-
-## 📘 Lab 4 — ChatOps (Sharing)
-
-```markdown
 # Lab 4: ChatOps Integration
 
 ## Objective
@@ -24,3 +18,4 @@ notify:
   image: plugins/slack
   secrets: [ slack_webhook ]
   channel: devops-alerts
+```
