@@ -19,5 +19,7 @@ path "secret/*" {
 }
 EOF
 ```
+```
 vault policy write readonly readonly.hcl
 vault token create -policy=readonly
+```
