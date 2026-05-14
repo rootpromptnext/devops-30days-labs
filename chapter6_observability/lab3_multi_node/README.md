@@ -1,9 +1,3 @@
-
----
-
-## 📘 Lab 3 — Multi‑Node Monitoring
-
-```markdown
 # Lab 3: Multi‑Node Monitoring
 
 ## Objective
