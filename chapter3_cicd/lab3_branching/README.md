@@ -1,9 +1,3 @@
-
----
-
-## 📘 Lab 3 — Branching Strategy
-
-```markdown
 # Lab 3: Branching Strategy
 
 ## Objective
@@ -26,3 +20,4 @@ git commit -m "Add login feature"
 git checkout main
 git merge feature/login
 git push origin main
+```
