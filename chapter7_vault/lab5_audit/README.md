@@ -1,10 +1,3 @@
-
----
-
-## 📘 Lab 5 — Audit Logs
-
-```bash
-cat >> chapter7_vault/lab5_audit/README.md << 'EOF'
 # Lab 5: Vault Audit Logs
 
 ## Objective
