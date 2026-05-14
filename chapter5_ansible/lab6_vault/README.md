@@ -1,9 +1,4 @@
 
----
-
-## 📘 Lab 6 — Ansible Vault
-
-```markdown
 # Lab 6: Ansible Vault
 
 ## Objective
